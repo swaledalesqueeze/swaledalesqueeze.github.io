@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
 # Swaledale Squeeze
 
 ## 17-19 May 2024
@@ -44,3 +50,4 @@ All are welcome to use the self-catering kitchen in the hostel, and can access s
 Non residents are welcome to participate in the full programme (no meals included,can access self-catering kitchen)
 
 Dogs on leads are permitted in the camping pods, landpods, tents, campervans and public areas. Sheep and nesting birds on site.
+
