@@ -5,7 +5,7 @@ layout: default
 
 ## 15-17 May 2026
 
-[Booking through EventBee (opens 25th Jan 2026)](https://swaledale-squeeze-2026.eventbee.com)
+[Booking through EventBee (opens 12:00 noon 24th Jan 2026)](https://swaledale-squeeze-2026.eventbee.com)
 
 The Swaledale Squeeze is a convivial weekend of concertina playing, meeting friends, a concert, a ceilidh, sessions, the comfort of Grinton Lodge and fantastic scenery – what more could a concertina player ask for? Everything is centred on Grinton Lodge (a former shooting lodge), now a Youth Hostel, based just outside Reeth in the Yorkshire Dales.
 
