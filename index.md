@@ -15,7 +15,7 @@ The guest tutors for the 2026 squeeze are
 
 - Cohen Braithwaite-Kilcoyne Anglo
 - Alistair Anderson on English
-- Tim Laycock on Duet
+- Paul McCann on Duet
 
 Our regular tutors are Alex Wade (English), Harry Scurfield (Anglo), Paul Walker (English/Anglo), Carolyn Wade (Band) and Dave Ball (English). Together they provide workshops covering a whole range of concertina playing for different abilities, systems and styles. Theo Gibb is joining on Saturday for any instrument repairs. Chris Algar is coming on one of the days for concertina purchases.
 
