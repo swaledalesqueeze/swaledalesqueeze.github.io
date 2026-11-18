@@ -6,7 +6,7 @@ layout: default
 ## 21-23 May 2027
 
 
-The Swaledale Squeeze is a convivial weekend of concertina playing, meeting friends, a concert, a ceilidh, sessions. From 2027 we are moving to a new venue, the Nightingale Centre in Derbyshire, because Grinton Lodge has closed. The Nightingale centre is based just in Great Hucklow, just outside Buxton in the Derbyshire Dales.
+The Swaledale Squeeze is a convivial weekend of concertina playing, meeting friends, a concert, a ceilidh, sessions. From 2027 we are moving to a new venue, the Nightingale Centre in Derbyshire, because Grinton Lodge has closed. The [Nightingale Centre](https://independenthostels.co.uk/members/nightingalecentre/) is based just in Great Hucklow, just outside Buxton in the Derbyshire Dales.
 
 <div style="text-align:center"><img src="assets/images/ssicon.png" alt="Squeeze logo"></div>
 
